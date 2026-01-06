@@ -1,4 +1,5 @@
-Netflix Content Analysis & Machine Learning
+# Netflix Content Analysis & Machine Learning
+
 📊 Analyzing Netflix Data & Applying ML Models
 
 Project Overview
@@ -6,8 +7,11 @@ This project explores Netflix's content data, performing Exploratory Data Analys
 
 Key Features
 ✔ Data Cleaning & Preprocessing
+
 ✔ Exploratory Data Analysis (EDA) using Pandas & Matplotlib
+
 ✔ Feature Engineering & Visualization
+
 ✔ Machine Learning Model Implementation
 
 Tech Stack
